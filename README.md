@@ -12,7 +12,7 @@ Implemented algorithms:
 
 Features:
 1) Colored representation of step being executed.
-  1.1) Blue:default
+  1.1) Light Blue:default
   1.2) Yellow: Being compared
   1.3) Red: Identified as in incorrect position and to be moved
   1.4) Green: In correct position
@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: 
+Take a look at live version : https://prafful33tak.github.io/sorting-visualizer/ 
